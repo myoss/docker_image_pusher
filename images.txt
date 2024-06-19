@@ -1,4 +1,5 @@
 docker.io/nacos/nacos-server:v2.2.0
+docker.io/nacos/nacos-server:v2.2.0.1
 docker.io/nacos/nacos-peer-finder-plugin:1.1
 
 docker.io/jumpserver/core:v3.6.2
