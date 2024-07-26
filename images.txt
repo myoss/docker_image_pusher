@@ -1,16 +1,16 @@
-docker.io/nacos/nacos-server:v2.2.0
-docker.io/nacos/nacos-server:v2.2.0.1
-docker.io/nacos/nacos-peer-finder-plugin:1.1
+#docker.io/nacos/nacos-server:v2.2.0
+#docker.io/nacos/nacos-server:v2.2.0.1
+#docker.io/nacos/nacos-peer-finder-plugin:1.1
 
-docker.io/jumpserver/core:v3.6.2
-docker.io/jumpserver/chen:v3.6.2
+#docker.io/jumpserver/core:v3.6.2
+#docker.io/jumpserver/chen:v3.6.2
 
-docker.io/jimmidyson/configmap-reload:v0.5.0
-docker.io/library/redis:7.0.7-alpine
+#docker.io/jimmidyson/configmap-reload:v0.5.0
+#docker.io/library/redis:7.0.7-alpine
 
-docker.io/apache/apisix:3.1.0-debian
-docker.io/apache/apisix-dashboard:3.0.0-alpine
+#docker.io/apache/apisix:3.1.0-debian
+#docker.io/apache/apisix-dashboard:3.0.0-alpine
 
-docker.io/goharbor/trivy-adapter-photon:v2.9.0
+#docker.io/goharbor/trivy-adapter-photon:v2.9.0
 
-ldap/lldap:stable
+lldap/lldap:2024-07-20-debian
