@@ -12,3 +12,5 @@ docker.io/apache/apisix:3.1.0-debian
 docker.io/apache/apisix-dashboard:3.0.0-alpine
 
 docker.io/goharbor/trivy-adapter-photon:v2.9.0
+
+ldap/lldap:stable
