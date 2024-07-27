@@ -13,4 +13,14 @@
 
 #docker.io/goharbor/trivy-adapter-photon:v2.9.0
 
-lldap/lldap:2024-07-20-debian
+#lldap/lldap:2024-07-20-debian
+
+signoz/query-service:0.50.0
+signoz/frontend:0.50.0
+signoz/alertmanager:0.23.5
+jimmidyson/configmap-reload:v0.5.0
+signoz/signoz-schema-migrator:0.102.2
+groundnuty/k8s-wait-for:v2.0
+signoz/signoz-otel-collector:0.102.2
+otel/opentelemetry-collector-contrib:0.88.0
+busybox:1.35
